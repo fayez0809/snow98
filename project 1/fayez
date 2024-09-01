@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>My Resume</title>
+</head>
+
+<body>
+<h1>Fayez </h1>
+    <img src="./unnamed.jpg"width="200">
+<hr/>
+        <h2>Summry</h2>
+        <p>my name is fayez I'm 33 years old  
+            working in sixt rental car as fleet planner.</p> 
+        <pre></pre>
+        <h2>Education</h2>
+        <p>high school 
+            some degrees in accounting </p>
+        <pre></pre>
+        <h2>Work Experince</h2>
+        <p>three years cuxtomer service </p>
+        <pre></pre>
+        <h2>skills</h2>
+        <li>team leader</li>
+        <li>hard working</li>
+        <li>communication</li>     
+
+<footer>
+    <p>© 2024 Fayez</p>
+<a href="./contact-1.html">contact me</a>  
+</footer>
+</body>
+
+</html>
